@@ -2043,4 +2043,4 @@ d3sparql.frameheight = function(height) {
 }
 
 /* for Node.js */
-//module.exports = d3sparql
+module.exports = d3sparql
