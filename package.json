@@ -1,6 +1,9 @@
 {
-    "name": "d3sparql",
+	"name": "d3sparql",
 	"version": "2015.05.25",
 	"main" : "d3sparql.js",
-	"license": "BSD-3-Clause"
+	"license": "BSD-3-Clause",
+	"devDependencies": {
+		"d3": "^4.1.1"
+	}
 }
