@@ -5,6 +5,6 @@
 	"license": "BSD-3-Clause",
 	"devDependencies": {
 		"d3": "^4.1.1",
-		"d3-sparql": "^0.7.1"
+		"d3-sankey": "^0.7.1"
 	}
 }
