@@ -3,7 +3,7 @@
 	"version": "2015.05.25",
 	"main" : "d3sparql.js",
 	"license": "BSD-3-Clause",
-	"devDependencies": {
+	"dependencies": {
 		"d3": "^4.1.1",
 		"d3-sankey": "^0.7.1"
 	}
