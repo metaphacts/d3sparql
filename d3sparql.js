@@ -8,6 +8,8 @@
 //
 
 import * as d3 from 'd3';
+import { sankey as Sankey } from 'd3-sankey';
+d3.sankey = Sankey;
 
 
 var d3sparql = {
