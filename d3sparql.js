@@ -7,7 +7,7 @@
 //   Initial version: 2013-01-28
 //
 
-import * as d3 from 'd3';
+var d3 = require('d3');
 import { sankey as Sankey } from 'd3-sankey';
 d3.sankey = Sankey;
 
