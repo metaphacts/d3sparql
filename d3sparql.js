@@ -7,6 +7,9 @@
 //   Initial version: 2013-01-28
 //
 
+import * as d3 from 'd3';
+
+
 var d3sparql = {
   version: "d3sparql.js version 2017-09-04",
   debug: false  // set to true for showing debug information
