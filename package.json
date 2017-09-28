@@ -5,6 +5,6 @@
 	"license": "BSD-3-Clause",
 	"dependencies": {
 		"d3": "3.5.17",
-		"d3-sankey": "^0.7.1"
+		"d3-sankey": "d3/d3-sankey#5a8e38ac5bd8c67b13d098c1a2f67373b604e45b"
 	}
 }
